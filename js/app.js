@@ -4,7 +4,6 @@ createApp({
   data() {
     return {
       disks: [],
-      message: "Hello Vue!",
     };
   },
   created() {
